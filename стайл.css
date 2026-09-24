@@ -1,0 +1,21 @@
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+
+li {
+    margin-bottom: 0.5em; /* отступ между пунктами списка */
+}
+
+a {
+    color: #66ccff;
+}
